@@ -1,0 +1,18 @@
+.parent{
+    margin: 0;
+    padding: 0;
+}
+
+
+.mybutton{
+    background-color: rgb(155, 11, 184);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 17px;
+}
+.mybutton:hover{
+    background-color: rgb(108, 21, 119);
+    cursor: pointer;
+}
